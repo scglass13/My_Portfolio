@@ -390,6 +390,11 @@ header {
     color: #fff;
 }
 
+.card_description {
+    font-style: italic;
+    font-weight: lighter;
+}
+
 .card_caption:link {
     text-decoration: none;
 }
